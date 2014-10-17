@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mky:home|Door43 (mky)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mky|d43-mky repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mky/archive/master.zip|d43-mky.zip]]
+
+**Recent Changes**
+{{changes>ns = mky}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mky|Ethnologue data]]
+
